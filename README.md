@@ -5,7 +5,7 @@
 </p>
 
 ### 🚀 About Me
-I am an Informatics student and Backend Engineer with a strong focus on building scalable and efficient systems. I specialize in **Golang** and enjoy exploring new technologies to solve complex problems. My current goal is to land an international backend engineering internship.
+I am an Informatics student and Backend Engineer with a strong focus on building scalable and efficient systems. I specialize in **Golang** and enjoy exploring new technologies to solve complex problems. 
 
 - 🎓 Currently studying: **Informatics**
 - 🛠️ Focusing on: **Backend Development & System Analysis**

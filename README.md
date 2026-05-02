@@ -28,7 +28,7 @@ I am an Informatics student and Backend Engineer with a strong focus on building
 <p align="left">
   <img src="https://img.shields.io/badge/gin-%23008ECF.svg?style=for-the-badge&logo=gin&logoColor=white" alt="Gin" />
   <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge" alt="React.js"/>
-  <img src="https://img.shields.io/badge/gRPC-%23244c5a.svg?style=for-the-badge&logo=gRPC&logoColor=white" alt="gRPC" />
+  <img src="https://img.shields.io/badge/gRPC-%23244c5a.svg?style=for-the-badge&logo=grpc&logoColor=white" alt="gRPC" />
   <img src="https://img.shields.io/badge/fiber-%23111111.svg?style=for-the-badge&logo=go&logoColor=white" alt="Fiber" />
 </p>
 

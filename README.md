@@ -4,12 +4,12 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00ADD8&height=200&section=header&text=Aruu%20|%20Backend%20Engineer&fontSize=50&fontColor=ffffff" alt="Header" />
 </p>
 
-### 🚀 About Me
+### About Me
 I am an Informatics student and Backend Engineer with a strong focus on building scalable and efficient systems. I specialize in **Golang** and enjoy exploring new technologies to solve complex problems. 
 
 - 🎓 Currently studying: **Informatics**
 - 🛠️ Focusing on: **Backend Development & System Analysis**
-- ⚙️ Daily Driver: **Linux (Pop!_OS / Ubuntu / Mint)**
+- ⚙️ Daily Driver: **Linux**
 - 📈 Personal Interests: **Financial Markets** & **Gym**
 
 ---
@@ -38,11 +38,6 @@ I am an Informatics student and Backend Engineer with a strong focus on building
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
   <img src="https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-</p>
-
-#### 🎨 Design
-<p align="left">
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </p>
 
 ---

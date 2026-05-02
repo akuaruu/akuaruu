@@ -27,6 +27,8 @@ I am an Informatics student and Backend Engineer with a strong focus on building
 #### 🚀 Frameworks
 <p align="left">
   <img src="https://img.shields.io/badge/gin-%23008ECF.svg?style=for-the-badge&logo=gin&logoColor=white" alt="Gin" />
+  <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge" alt="React.js"/>
+  <img src="https://img.shields.io/badge/gRPC-%23244c5a.svg?style=for-the-badge&logo=gRPC&logoColor=white" alt="gRPC" />
   <img src="https://img.shields.io/badge/fiber-%23111111.svg?style=for-the-badge&logo=go&logoColor=white" alt="Fiber" />
 </p>
 
@@ -34,6 +36,7 @@ I am an Informatics student and Backend Engineer with a strong focus on building
 <p align="left">
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
   <img src="https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
@@ -41,12 +44,6 @@ I am an Informatics student and Backend Engineer with a strong focus on building
 <p align="left">
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </p>
-
----
-
-### 🏗️ Featured Projects
-* **GitHub User Activity CLI** - A Go-based command-line tool to fetch and display real-time user activity.
-* **AdminIn** - A business management system focusing on clean UI/UX and efficient data handling.
 
 ---
 
